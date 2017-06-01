@@ -11,7 +11,7 @@ class AImpl implements A {
 	@Override
 	public void doSomething(String s) {
 		// TODO Auto-generated method stub
-		System.out.println("ABCD");
+		System.out.println("ABCDEF");
 	}
 
 }
