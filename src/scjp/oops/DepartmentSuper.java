@@ -40,7 +40,7 @@ public class DepartmentSuper {
 	public static void stringReverse(String stab){
 		
 	    String str = "";
-		System.out.println("Super String Reverse");
+		System.out.println("Super String Reverse Example");
 		for(int i=stab.length()-1;i>=0;--i){	
 			
 			//System.out.println(stab.charAt(stab.length()-i));
