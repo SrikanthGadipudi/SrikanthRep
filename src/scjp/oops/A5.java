@@ -14,7 +14,7 @@ package scjp.oops;
 
  class B5 extends Z
  {
-	 public String name = "B11ddddd";
+	 public String name = "B11sssss";
 	 public String greeting()
 	 {
 		 return "Class B";
