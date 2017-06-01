@@ -16,7 +16,7 @@ public class TreeMapExample {
 		SortedMap<Employee,Department> e = new TreeMap<Employee,Department>();
 		SortedMap<Employee,Department> eb = new TreeMap<Employee,Department>(new EmployeeIDComparator());
 		
-		m.put(1, "Srikanth");
+		m.put(1, "Srik");
 		m.put(2, "Boby");
 		m.put(2, "Sri");
 		m.put(3, "Boby");
